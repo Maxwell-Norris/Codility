@@ -1,3 +1,8 @@
+/*
+ * Written by Maxwell F. Norris
+ * May 5, 2017
+ */
+
 int compare( const void* a, const void* b) {
     
     int ia = *((int*)a);
